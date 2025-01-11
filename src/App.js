@@ -36,7 +36,7 @@ const App = () => {
           <div>
             <h2>Congratulations! You have cracked the code🎉</h2>
             <img
-              src="https://www.planet-wissen.de/geschichte/deutsche_geschichte/geteilte_stadt_berlin/brandenburger-tor-104~_v-gseapremiumxl.jpg"
+              src="https://raw.githubusercontent.com/tiraskrit/Nishan-Treasure/refs/heads/main/chitra.jpg"
               alt="Treasure Location"
             />
           </div>
