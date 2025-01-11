@@ -5,7 +5,7 @@ const App = () => {
   const [code, setCode] = useState('');
   const [isValid, setIsValid] = useState(null);
 
-  const validCodes = ['0000', '1111'];
+  const validCodes = ['2920', '3890'];
 
   const handleSubmit = () => {
     if (validCodes.includes(code)) {
