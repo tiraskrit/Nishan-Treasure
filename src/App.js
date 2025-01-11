@@ -38,6 +38,7 @@ const App = () => {
             <img
               src="https://raw.githubusercontent.com/tiraskrit/Nishan-Treasure/refs/heads/main/chitra.jpg"
               alt="Treasure Location"
+              onContextMenu={(e) => e.preventDefault()}
             />
           </div>
         )}
